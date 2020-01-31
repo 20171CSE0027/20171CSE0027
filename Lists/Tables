@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>TABLE</title>
+</head>
+<body>
+<table border="4" width="100%" bgcolor="88eae6" cellspacing="4px" cellpadding="2px" align="center">
+<caption align="top">Student details</caption>
+<tr>
+<th>Name</th>
+<th>ID No</th>
+<th>Dept</th>
+</tr>
+<tr>
+<td>Aishwarya AS</td>
+<td>20171CSE0026</td>
+<td>CSE</td>
+</tr>
+<tr>
+<td>Aishwarya VijayKumar</td>
+<td>20171CSE0027</td>
+<td>CSE</td>
+</tr>
+<tr>
+<td>Aayushi</td>
+<td>20171CSE0028</td>
+<td>CSE</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>combination of lists</title>
+<body>
+<h1 align="center">Safety tips for</h1>
+<ol type="a" start="2">
+<li>be able to swim</li>
+<li>wear a life jacket at all times</li>
+<li>Do not stand up or move around.If canoe tips,
+ <ul>
+ <li>Hang on to the canoe</li>
+ <li>Use the canoe for support and</li>
+ <li>swim to the shore
+ </ul></li>
+<li>Don't overexert yourself</li>
+<li>use a bow light at night</li>
+</ol>
+<img src="image.jpeg" border="4" align="center" witdh="400px" height="400px" >
+</body>
+</html>

@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Difinition list</title>
+</head>
+<body>
+<dl>
+<dt>html</dt>
+<dd>Hyper text markup language</dd>
+<dt>Dog</dt>
+<dd>a human's best friend</dd>
+</dl>
+</body>
+</html>
