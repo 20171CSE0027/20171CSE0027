@@ -1,0 +1,134 @@
+<html>
+<head>
+<title>HTML</title>
+</head>
+<body>
+<table border="4" width="100%" bgcolor="88eae6" cellspacing="4px" cellpadding="2px" align="center">
+<caption align="top">Student details</caption>
+<tr>
+<th>Name</th>
+<th>ID No</th>
+<th>Dept</th>
+</tr>
+<tr>
+<td>Aishwarya AS</td>
+<td>20171CSE0026</td>
+<td>CSE</td>
+</tr>
+<tr>
+<td>Aishwarya VijayKumar</td>
+<td>20171CSE0027</td>
+<td>CSE</td>
+</tr>
+<tr>
+<td>Aayushi</td>
+<td>20171CSE0028</td>
+<td>CSE</td>
+</tr>
+</table>
+<hr></hr>
+</body>
+</html>
+
+
+
+<!--colspan and rowsapn-->
+<html>
+<head>
+<title>HTML table colspan</title>
+</head>
+<body>
+<table border="1" bgcolor="yellow">
+<tr>
+<th>column 1</th>
+<th>column 2</th>
+<th>column 3</th>
+<th>column 4</th>
+</tr>
+<tr>
+<td rowspan="2">row 1 cell 1</td>
+<td>row 1 cell 2</td>
+<td>row 1 cell 3</td>
+<td rowspan="3">row 1 cell 3</td>
+</tr>
+<tr>
+<td>row 2 cell 1</td>
+<td>row 2 cell 3</td>
+</tr>
+<tr>
+<td colspan="3">row 3 cell 1</td>
+</tr>
+</table>
+<a href="mailto:abc@example.come">Send Email</a>
+<hr></hr>
+
+<head>
+<title>Setting font size</title>
+</head>
+<font size="1">Font size="1"</font><br/>
+<font size="2">Font size="2"</font><br/>
+<font size="3">Font size="3"</font><br/>
+<font size="4">Font size="4"</font><br/>
+<font size="5">Font size="5"</font><br/>
+<font size="6">Font size="6"</font><br/>
+<font size="7">Font size="7"</font><br/>
+<hr></hr>
+
+
+<head>
+<title>HTML marquee tag</title>
+</head>
+<marquee direction="right">This is basic example of marquee</marquee>
+<hr></hr>
+
+
+<head>
+<title>Style attribute</title>
+</head>
+
+<tagname style="property:value;">
+<body style="background-image:url('image4.jpeg');">
+<h1 style="color:blue;">This is a heading</h1>
+<p style="color:red;">This is a paragraph</p>
+<h1 style="font-family:verdana;">This is heading 1</h1>
+<p style="font-family:courier;">This is a paragraph</p>
+<h1 style="font-size:300%;">This is heading 1</h1>
+<p style="font-size:160%;">This is a paragraph</p>
+<h1 style="text-align:center;">This is heading 1</h1>
+<p style="text-align:center;">This is a paragraph</p>
+
+<h1 style="color:Tomato;">HELLO WORLD</h1>
+<h1 style="background-color:rgb(255,99,71);">HELLO!</h1>
+<h1 style="background-color:rgba(255,99,71,0.5);">This is HTML class</h1>
+
+<hr></hr>
+
+<p>Image as link</p>
+<a href="ulist.html">
+<img src="image.jpeg" alt="image as link" style="width:42px;border:0;">
+</a>
+
+<hr></hr>
+<p><img src="image.jpeg" alt="image as link" style="float:left,width:42px;height:42px;">
+The image will float to the left</p>
+<hr></hr>
+<p align="center">Image mapping</p>
+<img src="image.jpeg" alt="imagemap" usemap="#imagemap">
+<map name="imagemap">
+<area shape="rect" coords="34,44,270,350" href="ulist.html">
+</map>
+<hr></hr>
+<!--div tag-->
+<div style="background-color:a5fbf8;color:black;padding:20px;">
+<h2>London&reg;</h2>&copy;
+<p>London is the capital city of England.It is the most populus city in the UK.</p>
+</div>
+<hr></hr>
+<h1>My <span style="color:red">Important</span> Heading</h1><!--span-->
+<hr></hr>
+<!--IFRAME-->
+<p align="center"><b>IFrame</b></p>
+<iframe src="image3.jpeg"width="555"height="200">
+</iframe>
+</body>
+</html>
