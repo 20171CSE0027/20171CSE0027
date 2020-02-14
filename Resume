@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body style="background-image:url('resume.jpeg');">
+<h2 align="left">Aishwarya Vijay Kumar</h2>
+<img src="girl.jpeg" alt="My pictute" style="float:right;width:50px;height=50px;">
+<a href="mailto:aishuvijay99@gmail.com">aishuvijay99@gmail.com</a>
+<p>+91-8861339842</p>
+<hr></hr>
+<h2>Resume Highlights</h2>
+<ul>
+<li>Internship at Agaze Technologies,Banglore as UI/UX Designer.</li><br/>
+<li>All rounder of the year at school during 2012.</li><br/>
+<li>First class in the drawing Examination conducted by Delhi Board.</li><br/>
+</ul>
+<hr></hr>
+<h2>Professional Experience</h2>
+<ul>
+<li>Agaze Technologies,Banglore</li><br/>
+<dl>
+<dt>Job Responsibilities</dt><br/>
+</dl>
+<ul type="circle">
+<li>Worked at Agaze Technologies,Banglore for 2 months as UI/UX Designer.</li><br/>
+<li>Worked with the team to have better understanding of cloud storage</li><br/>
+<li>Worked with the Quality Analysis team for testing a Qatar based project</li><br/>
+</ul>
+</ul>
+<hr></hr>
+<h2>Educational Qualification</h2>
+<table border="4" align="center" cellspacing="4px" width="100%">
+<tr>
+<th style="color:07807c;">Qualification</th>
+<th style="color:07807c;">Board</th>
+<th style="color:07807c;">Percentage/CGPA</th>
+<th style="color:07807c;">Year</th>
+</tr>
+<tr>
+<td>B.Tech CSE</td>
+<td>AICTE</td>
+<td>7.5 CGPA</td>
+<td>2021</td>
+</tr>
+<tr>
+<td>Pre-University</td><td>State Board</td><td>85.5%</td><td>2017</td>
+</tr>
+<tr>
+<td>10<sup>th</sup> CBSE</td><td>CBSE</td><td>9.2 CGPA</td><td>2015</td>
+</tr>
+</table>
+<br/>
+<br/>
+<p align="left">14-02-2020</p><p align="right">(Aishwarya Vijay Kumar)</p>
+</body>
+</html>
