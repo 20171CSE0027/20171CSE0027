@@ -1,0 +1,70 @@
+body{
+background-color:linen;
+background-image:url("resume.jpeg");
+background-repeat:repeat;
+background-attachment:fixed;
+}
+h1{
+color:black;
+margin-left:40px;
+word-spacing:5px;
+text-shadow:10px 10px 8px pink;
+border-style:dashed;
+border-width:5px;
+border-color:red green blue yellow;
+}
+
+p.abc{
+color:blue;
+background-color:powderblue;
+margin-left:40px;
+font-size:50px;
+font-style:italic;
+font-family:serif;
+font-weight:bold;
+text-align:left;
+text-indent:4cm;
+text-decoration:line-through;
+}
+p.xyz{
+color:blue;
+background-color:yellow;
+margin-left:45px;
+font-size:40px;
+font-style:italic;
+font-family:serif;
+font-weight:500;
+text-align:left;
+text-indent:4cm;
+text-decoration:underline;
+text-transform:capitalize;
+}
+p.all{
+border-width:5px;
+border-color:red green blue yellow;
+border-top-style:dotted;
+border-right-style:solid;
+border-bottom-style:dotted;
+border-left-style:solid;
+}
+p.simple{
+font-size:50px;
+font-family:serif;
+font-style:italic;
+}
+a.fill2{
+border:2px solid green;
+padding:14px 25px;
+display:inline-block;
+text-decoration:none;
+}
+a.noun{
+text-decoration:none;
+}
+a.fill1{
+background-color:green;
+color:white;
+padding:14px 25px;
+text-align:center;
+display:inline-block;
+}
